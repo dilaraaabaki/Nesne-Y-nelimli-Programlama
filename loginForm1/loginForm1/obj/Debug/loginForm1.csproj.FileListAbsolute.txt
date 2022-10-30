@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\loginForm1\loginForm1\bin\Debug\loginForm1.exe.config
+C:\Users\ACER\source\repos\loginForm1\loginForm1\bin\Debug\loginForm1.exe
+C:\Users\ACER\source\repos\loginForm1\loginForm1\bin\Debug\loginForm1.pdb
+C:\Users\ACER\source\repos\loginForm1\loginForm1\obj\Debug\loginForm1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\loginForm1\loginForm1\obj\Debug\loginForm1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\loginForm1\loginForm1\obj\Debug\loginForm1.Form1.resources
+C:\Users\ACER\source\repos\loginForm1\loginForm1\obj\Debug\loginForm1.Properties.Resources.resources
+C:\Users\ACER\source\repos\loginForm1\loginForm1\obj\Debug\loginForm1.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\loginForm1\loginForm1\obj\Debug\loginForm1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\loginForm1\loginForm1\obj\Debug\loginForm1.exe
+C:\Users\ACER\source\repos\loginForm1\loginForm1\obj\Debug\loginForm1.pdb
