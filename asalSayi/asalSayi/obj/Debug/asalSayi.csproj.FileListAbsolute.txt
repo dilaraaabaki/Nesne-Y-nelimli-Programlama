@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\asalSayi\asalSayi\bin\Debug\asalSayi.exe.config
+C:\Users\ACER\source\repos\asalSayi\asalSayi\bin\Debug\asalSayi.exe
+C:\Users\ACER\source\repos\asalSayi\asalSayi\bin\Debug\asalSayi.pdb
+C:\Users\ACER\source\repos\asalSayi\asalSayi\obj\Debug\asalSayi.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\asalSayi\asalSayi\obj\Debug\asalSayi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\asalSayi\asalSayi\obj\Debug\asalSayi.Form1.resources
+C:\Users\ACER\source\repos\asalSayi\asalSayi\obj\Debug\asalSayi.Properties.Resources.resources
+C:\Users\ACER\source\repos\asalSayi\asalSayi\obj\Debug\asalSayi.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\asalSayi\asalSayi\obj\Debug\asalSayi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\asalSayi\asalSayi\obj\Debug\asalSayi.exe
+C:\Users\ACER\source\repos\asalSayi\asalSayi\obj\Debug\asalSayi.pdb
